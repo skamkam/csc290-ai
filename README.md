@@ -1,15 +1,16 @@
 Group: Asher Uman, Amanda Colby, Sarah Kam
+
 Class: CSC290 Intro to AI
 
-# English Language Generator
+## English Language Generator
 
 Context free grammar using a `State` object class to direct sentence generation
 
-# Minmax Chessbot
+## Minmax Chessbot
 
 Uses up to depth 3 to search for the optimal move and carry out. A little buggy
 
-# Chinese Language Generator
+## Chinese Language Generator
 
 This project is a rudimentary Chinese language generator. The sentences are mostly grammatically correct, if nonsensical. The grammar problems are analogous to English “a” versus “an” situations, where the part of speech is the same but the context requires it to be a specific choice – something that we can’t control in the terminal word choices without memory.
 
